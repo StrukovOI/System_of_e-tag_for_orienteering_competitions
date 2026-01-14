@@ -1,1 +1,1 @@
-# System_of_e-tag_for_orienteering_competitions
+# Система электронной отметки для соревнований по спортивному ориентированию
